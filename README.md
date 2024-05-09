@@ -8,7 +8,7 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on AIWA.
+- 🔭 I’m currently working on AIWA Japan Technology.
 
 - 🌱 I’m currently learning Computer Engineering.
   
