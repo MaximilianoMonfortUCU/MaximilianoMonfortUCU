@@ -19,3 +19,7 @@
 - ⚡ Fun fact: I spent 5 years studying medicine, including 2 years specializing in vascular surgery.
   
 - 🌍 Languages: English, Spanish, and French.
+  
+- 🎓 Certifications: Marketing, CPR, and Infectious Disease Control.
+  
+- 💼 Skills: UX/UI Web Design, Python, HTML, ZOHO.
